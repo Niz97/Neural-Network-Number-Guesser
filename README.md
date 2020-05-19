@@ -14,7 +14,14 @@ A Python desktop application that uses a convolutional neural network built usin
 
 ## Setup a Python virtual environment  
   ```py -m venv environment_name ```
-  
+
+## Move into the new directory
+``` cd environment_name```  
+## Clone this repository into ```environment_name```
+
+## Activate the virtual environment  
+``` Scripts\activate.bat```
+
 ## Install dependencies 
 ``` pip install -r requirements.txt ```
 
